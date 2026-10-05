@@ -1,0 +1,1 @@
+MsgBox "ClickFix VBS payload executed", vbInformation, "Test"
